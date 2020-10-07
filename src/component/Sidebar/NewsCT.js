@@ -4,7 +4,7 @@ import '../../App.css'
 
 function NewsCT(props){
     return (
-      <form2 className = "form2">
+      <form2 className = "form3">
         <div className="Contents">
           <div className="right">
             <div className="right-news">
