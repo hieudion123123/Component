@@ -7,7 +7,7 @@ function MainCT(props){
       <form className = "form1">
         <div className="Contents">
           <div className="Contain">
-            <h1>{props.titleLeft}</h1>
+            <h1 className = "title-left">{props.titleLeft}</h1>
             <div className="block bdtop">
               <div className="anh">
                 <img className="img" src={props.srcimg} alt={1} />
